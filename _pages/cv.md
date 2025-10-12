@@ -10,10 +10,21 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Computer Science, Queen Mary University of London, 2020-2024 (ongoing)
+* Ph.D in Computer Science, Queen Mary University of London, 2020-2024
 * M.A. (with Distinction) in Linguistics, University College London, 2018-2019
 * Exchange student in Computational Linguistics, University of California, San Diego, 2017
 * B.A. in Translation, Zhejiang University of Technology, 2014-2018
+
+Industry Experience
+======
+* Post-doctoral Researcher Assistant, 2023-2024
+  * AI CoE HSBC-UK via the Allen Turing Institute
+  * Project: Generative AI Evaluation package for HSBC use cases
+
+* LLM and NLP Algorithm Engineer, 2024–Present
+  * Fliggy Alibaba
+  * Project: training and deploying LLMs for real-world business use cases
+
 
 Academic/Research Experience
 ======
@@ -42,24 +53,16 @@ Academic/Research Experience
   * Project: Processing of Information Structure in Chinese 
   * Supervisor: Dr. Luming Wang
  
-Industry Experience
-======
-* Post-doctoral Researcher Assistant, 2023-2024
-  * AI CoE HSBC-UK via the Allen Turing Institute
-  * Project: Generative AI Evaluation package for HSBC use cases
-
-
-
 
 Research Interests
 ======
-* Automated Fact-Checking
+* Reinforcement Learning
 * Natural Language Processing
 * Machine Learning
-* Formal Semantics
 * Active Learning
-* Reinforcement Learning
-
+* Automated Fact-Checking
+* Formal Semantics
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
