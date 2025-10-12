@@ -8,13 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, Queen Mary University of London, 2020-2024
-* M.A. (with Distinction) in Linguistics, University College London, 2018-2019
-* Exchange student in Computational Linguistics, University of California, San Diego, 2017
-* B.A. in Translation, Zhejiang University of Technology, 2014-2018
-
 Industry Experience
 ======
 * Post-doctoral Researcher Assistant, 2023-2024
@@ -23,7 +16,16 @@ Industry Experience
 
 * LLM and NLP Algorithm Engineer, 2024–Present
   * Fliggy Alibaba
-  * Project: training and deploying LLMs for real-world business use cases
+  * Project: Training and deploying LLMs for real-world business use cases
+
+
+Education
+======
+* Ph.D in Computer Science, Queen Mary University of London, 2020-2024
+* M.A. (with Distinction) in Linguistics, University College London, 2018-2019
+* Exchange student in Computational Linguistics, University of California, San Diego, 2017
+* B.A. in Translation, Zhejiang University of Technology, 2014-2018
+
 
 
 Academic/Research Experience
